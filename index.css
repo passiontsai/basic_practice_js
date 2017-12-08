@@ -1,0 +1,26 @@
+
+
+h2, p, span{
+    font-family: Sans-serif;
+}
+
+.input-area span{
+    margin: 8px 4px;
+}
+
+.input-area button{
+    width:80px;
+    height:24px;
+    border: 2px solid #E0E0E0 ;
+    background-color: #FFF;
+}
+
+.input-area button:hover{
+    background-color: #E0E0E0;
+}
+
+#myBasic {
+    background-color: #009688;
+    color: white;
+    padding: 8px 16px;
+}
